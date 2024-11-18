@@ -1,0 +1,145 @@
+   .navbar-brand {
+       margin-left: 15px;
+   }
+
+   .navbar-nav {
+       margin-right: 15px;
+   }
+
+   .navbar-brand img {
+       height: 70px;
+   }
+
+   .scholarship-card {
+       background-color: #f8f9fa;
+       padding: 20px;
+       margin-bottom: 20px;
+       border-radius: 8px;
+   }
+
+   .scholarship-status {
+       font-weight: bold;
+       color: #ffffff;
+       padding: 5px 10px;
+       border-radius: 4px;
+   }
+
+   .status-active {
+       background-color: #198754;
+   }
+
+   .status-deactivated {
+       background-color: #dc3545;
+   }
+
+   .status-pending {
+       background-color: #ffc107;
+   }
+
+   .scholarship-card .title {
+       font-weight: bold;
+   }
+
+   .scholarship-card {
+       background-color: #f8f9fa;
+       padding: 20px;
+       margin-bottom: 20px;
+       border-radius: 8px;
+   }
+
+   .scholarship-status {
+       font-weight: bold;
+       color: #ffffff;
+       padding: 5px 10px;
+       border-radius: 4px;
+   }
+
+   .status-active {
+       background-color: #198754;
+   }
+
+   .status-deactivated {
+       background-color: #dc3545;
+   }
+
+   .status-pending {
+       background-color: #ffc107;
+   }
+
+   .scholarship-card .title {
+       font-weight: bold;
+   }
+
+   /* Styling for the button */
+   .status-btn {
+       width: 16px;
+       /* Square button size */
+       height: 16px;
+       border: none;
+       background-color: #198754;
+       /* Neutral color */
+       cursor: pointer;
+   }
+
+   .status-btn:hover {
+       background-color: #5a6268;
+       /* Darker hover effect */
+   }
+
+   /* Adjust the status-container margins */
+   .status-container {
+       background-color: #198754;
+       /* Background color */
+       padding: 5px;
+       /* Padding inside the container */
+       border-radius: 4px;
+       margin-bottom: 10px;
+       display: flex;
+       align-items: center;
+   }
+
+   .status-containerdeact {
+       background-color: #dc3545;
+       /* Background color */
+       padding: 5px;
+       /* Padding inside the container */
+       border-radius: 4px;
+       margin-bottom: 10px;
+       display: flex;
+       align-items: center;
+   }
+
+
+   /* Button styles */
+   .status-btn {
+       width: 16px;
+       height: 16px;
+       border: none;
+       background-color: #ffc107;
+       /* Button color */
+       border-radius: 2px;
+       cursor: pointer;
+   }
+
+   /* Adjust hover color */
+   .status-btn:hover {
+       background-color: #ff9900;
+   }
+
+   /* Scholarship status text */
+   .scholarship-status {
+       font-weight: bold;
+       color: #ffffff;
+       padding: 5px 5px;
+       margin: -5px;
+   }
+
+   a {
+       text-decoration: none;
+       color: inherit;
+   }
+
+   a:hover {
+       text-decoration: none;
+       color: inherit;
+   }

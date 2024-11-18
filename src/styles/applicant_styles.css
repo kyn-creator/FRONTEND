@@ -1,0 +1,62 @@
+/* General styles */
+.scholarship-card {
+  background-color: #f8f9fa;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.scholarship-status {
+  font-weight: bold;
+  color: #ffffff;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+.status-active {
+  background-color: #198754; /* Bootstrap success color */
+  
+}
+
+.status-deactivated {
+  background-color: #dc3545; /* Bootstrap danger color */
+}
+
+/* Navbar custom styles */
+.navbar-brand img {
+  height: 70px;
+}
+
+.navbar-brand {
+  margin-left: 15px;
+}
+
+.navbar-nav {
+  margin-right: 15px;
+}
+
+/* Status button styling */
+.status-buttons {
+  margin-top: 15px;
+}
+
+.status-accepted {
+  background-color: #198754;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.status-declined {
+  background-color: #dc3545;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.status-pending {
+  background-color: #ffc107;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+}
